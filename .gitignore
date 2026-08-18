@@ -15,8 +15,12 @@ venv.bak/
 
 # Data
 *.csv
+*.json
 
 #models
 *.pkl
 *.joblib
 
+#Folders 
+
+/notebooks/
